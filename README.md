@@ -1,18 +1,41 @@
-
 <h1 align="center">Hi 👋, I'm Khushi Dubey</h1>
-<h3 align="center">Undergraduate Student Of TIU, Customer Executive</h3>
+<h3 align="center">BCA Student @ Techno India University | Aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushid02&label=Profile%20views&color=0e75b6&style=flat" alt="khushid02" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushid02" alt="khushid02" /></a> </p>
+### 👩‍💻 About Me
+- 🎓 Undergraduate student at **Techno India University** (Graduating 2026).
+- 🌱 Currently learning **Full Stack Development**.
+- 🛠 Skilled in **Java, Python, SQL, MS Excel, HTML, CSS, JavaScript**.
+- 📫 How to reach me: **khushidubey0710@gmail.com**.
+- ⚡ Fun fact: I believe debugging with coffee and humor is the best combo! ☕
 
-- 🌱 I’m currently learning **C, C++, Python, HTML**
+---
 
-- 📫 How to reach me **khushidubey0710@gmail.com**
+### 🔗 Connect with me:
+<p>
+<a href="https://linkedin.com/in/khushi-d" target="_blank">LinkedIn</a> •
+<a href="https://fb.com/khushi.dubey" target="_blank">Facebook</a> •
+<a href="https://instagram.com/khhushi_d" target="_blank">Instagram</a>
+</p>
 
-- ⚡ Fun fact **Sense of humor**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Skills & Tools:
+![Java](https://img.shields.io/badge/Code-Java-blue)
+![Python](https://img.shields.io/badge/Code-Python-green)
+![SQL](https://img.shields.io/badge/Database-SQL-orange)
+![HTML](https://img.shields.io/badge/Frontend-HTML-red)
+![CSS](https://img.shields.io/badge/Frontend-CSS-blueviolet)
+![JavaScript](https://img.shields.io/badge/Frontend-JS-yellow)
+![MS Excel](https://img.shields.io/badge/Tool-MS_Excel-brightgreen)
+
+---
+
+### 📈 GitHub Stats:
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushid02&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushid02&layout=compact&theme=tokyonight)
+
 <p align="left">
 <a href="https://linkedin.com/in/khushi d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi d" height="30" width="40" /></a>
 <a href="https://fb.com/khushi dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khushi dubey" height="30" width="40" /></a>
