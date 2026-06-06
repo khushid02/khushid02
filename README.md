@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 - 🎓 Undergraduate student at **Techno India University** (Graduating 2026).
 - 🌱 Currently learning **Full Stack Development**.
-- 🛠 Skilled in **Java, Python, SQL, MS Excel, HTML, CSS, JavaScript**.
+- 🛠 Skilled in R ,Python, SQL, MS Excel, HTML, CSS, JavaScript**.
 - 📫 How to reach me: **khushidubey0710@gmail.com**.
 - ⚡ Fun fact: I believe debugging with coffee and humor is the best combo! ☕
 
