@@ -28,7 +28,9 @@
 ![HTML](https://img.shields.io/badge/Frontend-HTML-red)
 ![CSS](https://img.shields.io/badge/Frontend-CSS-blueviolet)
 ![JavaScript](https://img.shields.io/badge/Frontend-JS-yellow)
-![MS Excel](https://img.shields.io/badge/Tool-MS_Excel-brightgreen)
+![React(Learning)][(https://react.dev/)]
+![Flask][https://flask.palletsprojects.com/en/stable/]
+
 
 ---
 
