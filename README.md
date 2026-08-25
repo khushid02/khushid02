@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 - 🎓 Undergraduate student at **Techno India University** (Graduating 2027).
 - 🌱 Currently learning **Full Stack Development**.
-- 🛠 Skilled in JavaScript|Python|Java(Basic)|SQL|HTML5|CSS|Firebase|Git/Github|Flask|React(learning)**.
+- 🛠 Skilled in JavaScript|Python|Java(Basic)|SQL|HTML5|CSS|Firebase|Git/Github|Flask|React(learning).
 - 📫 How to reach me: **khushidubey0710@gmail.com**.
 - ⚡ Fun fact: I believe debugging with coffee and humor is the best combo! ☕
 
