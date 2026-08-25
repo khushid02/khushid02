@@ -28,8 +28,8 @@
 ![HTML](https://img.shields.io/badge/Frontend-HTML-red)
 ![CSS](https://img.shields.io/badge/Frontend-CSS-blueviolet)
 ![JavaScript](https://img.shields.io/badge/Frontend-JS-yellow)
-![React(Learning)][(https://react.dev/)]
-![Flask][https://flask.palletsprojects.com/en/stable/]
+[![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
 
 ---
